@@ -59,7 +59,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/download.jfif
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
