@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Water of life
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Discover the natural power of AquaVita Stones — a premium blend of Maifan,
+      Tourmaline, Zeolite, and Activated Carbon stones and other mineral
+      designed to enhance the quality of your drinking water .
+
     actions:
       - label: Get started
         altText: ''
